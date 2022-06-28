@@ -82,7 +82,3 @@ char **strtow(char *str)
 	}
 	return (s);
 }
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
